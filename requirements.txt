@@ -1,7 +1,7 @@
 ultralytics
 streamlit  
 pandas
-#opencv-python
+opencv-python
 numpy
 scipy
 easyocr
